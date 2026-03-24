@@ -34,6 +34,34 @@
       "api": "csp_LocalFile"
     },
     {
+		  "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+       "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js",
+       "key" : "11爱腾讯",
+       "name" : "☀官方🔹腾讯",
+       "type" : 3
+     },
+      {
+         "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+         "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js",
+         "key" : "22芒果视频",
+         "name" : "☀官方🔹芒果",
+         "type" : 3
+      },
+       {
+         "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+         "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js",
+         "key" : "33爱奇艺",
+         "name" : "☀官方🔹奇艺",
+         "type" : 3
+       },
+       {
+         "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+         "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js",
+         "key" : "44优酷视频",
+         "name" : "☀官方🔹优酷",
+         "type" : 3
+      },
+     {
       "key": "csp_Kugou",
       "name": "☀酷狗🔹音乐",
       "type": 3,
