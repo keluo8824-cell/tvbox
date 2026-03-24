@@ -1676,7 +1676,7 @@
     {
       "name": "AI线-不能看切换其他线路",
       "type": 0,
-      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+      "url": "http://210.245.166.84:1299/live/live.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 2,
       "timeout": 10
