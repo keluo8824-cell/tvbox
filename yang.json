@@ -34,6 +34,34 @@
       "api": "csp_LocalFile"
     },
     {
+        "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+       "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js",
+       "key" : "爱腾讯",
+       "name" : "☀官方🔹腾讯",
+       "type" : 3
+     },
+      {
+         "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+         "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js",
+         "key" : "芒果视频",
+         "name" : "☀官方🔹芒果",
+         "type" : 3
+      },
+       {
+         "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+         "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js",
+         "key" : "爱奇艺",
+         "name" : "☀官方🔹奇艺",
+         "type" : 3
+       },
+       {
+         "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+         "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js",
+         "key" : "优酷视频",
+         "name" : "☀官方🔹优酷",
+         "type" : 3
+      },
+     {
       "key": "csp_Kugou",
       "name": "☀酷狗🔹音乐",
       "type": 3,
@@ -1488,8 +1516,8 @@
   ],
   "parses": [
     {
-      "name": "解析失败自己切换",
-      "url": "https://www.8090g.cn/jiexi/?url=",
+       "name": "官方授权",
+      "url": "https://www.senymachine.com/admin/json.php?url=",
       "type": 0,
       "ext": {
         "flag": [
@@ -1520,6 +1548,36 @@
       }
     },
     {
+
+"name": "公益解析",
+      "type": 1,
+      "url": "https://rizzon.in/wp-content/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+        {
       "name": "解析失败换这个",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
