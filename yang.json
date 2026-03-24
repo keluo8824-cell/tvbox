@@ -1516,6 +1516,11 @@
   ],
   "parses": [
     {
+      "name": "Json聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+         {
        "name": "官方授权",
       "url": "https://www.senymachine.com/admin/json.php?url=",
       "type": 0,
