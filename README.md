@@ -53,7 +53,9 @@ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/oge.json
 
 天微影线
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/tw.json
- 
+
+摸鱼线路
+ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/moyu.json
  
 
 
