@@ -669,37 +669,9 @@
       "url": "Sequence"
     },
     {
-      "name": "刚哥无敌1",
+      "name": "公益影视┃芒果TV",
       "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "刚哥无敌2",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "url": "https://www.senymachine.com/admin/json.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -718,15 +690,43 @@
           "tnmb",
           "seven",
           "bilibili",
-          "1905",
-          "NetFilx"
+          "1905"
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
         }
       }
     },
-    {
+        {
+			"name": "公益影视┃公益解析",
+			"type": "1",
+			"url": "https://rizzon.in/wp-content/json.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+        {
       "name": "刚哥无敌3",
       "type": 1,
       "url": "https://zy.qiaoji8.com/xiafan.php?url=",
