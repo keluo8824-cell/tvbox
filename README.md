@@ -45,6 +45,8 @@ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live.txt
 99影院
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/99.json
 
+七星影仓
+https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/7xin.json
  
  
 
