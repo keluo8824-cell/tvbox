@@ -39,6 +39,9 @@ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/cai.json
 4K接口
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/4k.json
 
+天浪直播
+https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live.txt
+
 
  
  
