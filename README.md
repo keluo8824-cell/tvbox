@@ -19,8 +19,8 @@ OK接口
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/ok.json
  
 
-公益接口
- https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/xin.json
+巧记接口
+https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/qiao.json
  
 
 公益接口
