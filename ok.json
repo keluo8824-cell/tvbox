@@ -5,7 +5,7 @@
       "key": "首页",
       "name": "【请勿相信视频中的广告】",
       "type": 3,
-      "jar": "./A/y_0306.png;md5;66d5e6c27f427c6798f0c893cf90b77f",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png;md5;66d5e6c27f427c6798f0c893cf90b77f",
       "api": "csp_Douban",
       "categories": [
         "热播电视剧",
@@ -20,7 +20,7 @@
       "key": "配置┃中心",
       "name": "扫码4K配置中心",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_Config",
       "categories": [
         "天翼云盘配置"
@@ -36,7 +36,7 @@
       "key": "瓜子┃潇洒",
       "name": "瓜子😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_Gz360",
       "quickSearch": 1
     },
@@ -44,7 +44,7 @@
       "key": "三秋┃潇洒",
       "name": "三秋😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_App3Q",
       "quickSearch": 1
     },
@@ -52,7 +52,7 @@
       "key": "热播┃潇洒",
       "name": "热播😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppRJ",
       "ext": {
         "url": "http://v.rbotv.cn",
@@ -63,7 +63,7 @@
       "key": "金牌┃潇洒",
       "name": "金牌😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppQi",
       "ext": {
         "url": "https://qj3.ggtvb.cc",
@@ -79,7 +79,7 @@
       "key": "黑猫┃潇洒",
       "name": "黑猫😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "http://app1-0-0.87333.cc",
@@ -92,7 +92,7 @@
       "key": "云朵┃潇洒",
       "name": "云朵😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "https://yd4kcms.yd4k.top",
@@ -105,7 +105,7 @@
       "key": "星空┃潇洒",
       "name": "星空😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "http://xkos1.xkgzs.xyz",
@@ -118,7 +118,7 @@
       "key": "不错┃潇洒",
       "name": "不错😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "https://zbc4kmcs.zbc4k.app",
@@ -204,7 +204,7 @@
       "key": "雷鲸┃扫码4K",
       "name": "雷鲸🔍扫码4K",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_PanWebShareCloudLJ",
       "style": {
         "type": "list",
@@ -225,7 +225,7 @@
       "key": "雷翼┃扫码4K",
       "name": "雷翼🔍扫码4K",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_TianYiSo",
       "quickSearch": 1,
       "changeable": 0
@@ -255,8 +255,8 @@
       "changeable": 0,
       "ext": {
         "sp": "Star2",
-        "baidu_cookie": "./A/z_b.png",
-        "cookie": "./A/z_k.png"
+        "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_b.png",
+        "cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_k.png"
       }
     },
     {
@@ -268,8 +268,8 @@
       "changeable": 0,
       "ext": {
         "sp": "Wogg",
-        "baidu_cookie": "./A/z_b.png",
-        "cookie": "./A/z_k.png"
+        "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_b.png",
+        "cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_k.png"
       }
     },
     {
@@ -281,8 +281,8 @@
       "changeable": 0,
       "ext": {
         "sp": "ErXiao",
-        "baidu_cookie": "./A/z_b.png",
-        "cookie": "./A/z_k.png"
+        "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_b.png",
+        "cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_k.png"
       }
     },
     {
@@ -294,8 +294,8 @@
       "changeable": 0,
       "ext": {
         "sp": "ZhiZhen",
-        "baidu_cookie": "./A/z_b.png",
-        "cookie": "./A/z_k.png"
+        "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_b.png",
+        "cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_k.png"
       }
     },
     {
@@ -307,8 +307,8 @@
       "changeable": 0,
       "ext": {
         "sp": "HuBan",
-        "baidu_cookie": "./A/z_b.png",
-        "cookie": "./A/z_k.png"
+        "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_b.png",
+        "cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_k.png"
       }
     },
     {
@@ -320,8 +320,8 @@
       "changeable": 0,
       "ext": {
         "sp": "Xsayang",
-        "baidu_cookie": "./A/z_b.png",
-        "cookie": "./A/z_k.png"
+        "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_b.png",
+        "cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_k.png"
       }
     },
     {
@@ -333,8 +333,8 @@
       "changeable": 0,
       "ext": {
         "sp": "SeedHub",
-        "baidu_cookie": "./A/z_b.png",
-        "cookie": "./A/z_k.png"
+        "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_b.png",
+        "cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_k.png"
       }
     },
     {
@@ -346,14 +346,14 @@
       "changeable": 0,
       "ext": {
         "sp": "Bdxd",
-        "baidu_cookie": "./A/z_b.png"
+        "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_b.png"
       }
     },
     {
       "key": "巧一┃巧计",
       "name": "巧一🙀巧计",
       "type": 3,
-      "jar": "./A/qj224.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/qj224.png",
       "api": "csp_AI",
       "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
     },
@@ -361,7 +361,7 @@
       "key": "巧二┃巧计",
       "name": "巧二🙀巧计",
       "type": 3,
-      "jar": "./A/qj224.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/qj224.png",
       "api": "csp_qiao2",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
@@ -369,7 +369,7 @@
       "key": "火猫┃巧计",
       "name": "火猫🙀巧计",
       "type": 3,
-      "jar": "./A/qj224.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/qj224.png",
       "api": "csp_Nox",
       "ext": "7lj763gg402i79425h3gjl9jh75h9884l0k6i95kj0927i63514k15k7li194l430l8l4jh2jg08j3i63g0jgj8lllll19l3l96l7g11kkg1i4l264i97jh177k04i50kghgj1ghl179236i8g503917i8h70g3723khgg3h7jh3kil6j5gk73854i45423h3h9306g2kg1jki14j7732k7557h63jil8l4076i7278i286klk2h19ig8107364g1j1k3j516j9j6kjj86i70813896k7ik83151j10ljj462gki5531h8150h39804j27l0ij80719l28kk0550l70l829328376k2k6548j2k600404i86j15ig372j3322g0g55443kh630305515j3illl99k35k7623k9g65j978g5l7i2j468gkg8k93l9lg8156l210ikl6j46522g88k258888jk0525760l298hhl941990g0ik6gjj47i0k6ghg47k595jgk177gi4kig1j24470410g2h4g4igj5344l80151358k3h1896i4jj358k2ll9l6g70995hi6410kjg00ii986hg7i702k67497h4993i61j85j7j2kj6i9k17"
     },
@@ -377,21 +377,21 @@
       "key": "天堂┃磁力",
       "name": "天堂🧲磁力",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_DyGod"
     },
     {
       "key": "荐片┃磁力",
       "name": "荐片🧲磁力",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_JianPian"
     },
     {
       "key": "影港┃磁力",
       "name": "影港🧲磁力",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_XYQHiker",
       "ext": "./lib/影港.js"
     },
@@ -399,7 +399,7 @@
       "key": "新微┃磁力",
       "name": "新微🧲磁力",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_New6v",
       "ext": "https://www.xb6v.com"
     },
@@ -414,7 +414,7 @@
       "key": "农民┃潇洒",
       "name": "农民😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
     },
@@ -422,7 +422,7 @@
       "key": "无意┃潇洒",
       "name": "无意😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppYs",
       "ext": "http://m51.gotto.top/api.php/v1.vod",
       "quickSearch": 1
@@ -431,7 +431,7 @@
       "key": "闪影┃潇洒",
       "name": "闪影😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
       "quickSearch": 1
@@ -440,7 +440,7 @@
       "key": "奴娜┃潇洒",
       "name": "奴娜😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppYsV2",
       "ext": "https://www.nntv.in/api.php/v1.vod"
     },
@@ -448,7 +448,7 @@
       "key": "文采┃潇洒",
       "name": "文采😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
@@ -456,14 +456,14 @@
       "key": "云播┃潇洒",
       "name": "云播😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_Tvyb"
     },
     {
       "key": "缘梦┃潇洒",
       "name": "缘梦😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "http://165.99.42.137:5432",
@@ -476,7 +476,7 @@
       "key": "茉莉┃潇洒",
       "name": "茉莉😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "site": "./lib/9.txt",
@@ -488,7 +488,7 @@
       "key": "王子┃潇洒",
       "name": "王子😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "https://app.95112475.xyz",
@@ -500,7 +500,7 @@
       "key": "驿站┃潇洒",
       "name": "驿站😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "site": "./lib/apiurl.txt",
@@ -512,7 +512,7 @@
       "key": "灵虎┃潇洒",
       "name": "灵虎😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "site": "./lib/89.txt",
@@ -524,7 +524,7 @@
       "key": "七壹┃潇洒",
       "name": "七壹😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "https://qiyiys.cc",
@@ -536,7 +536,7 @@
       "key": "火狐┃潇洒",
       "name": "火狐😻潇洒",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_AppGet",
       "ext": {
         "url": "http://huohu.yihn.cc",
@@ -562,10 +562,10 @@
       "key": "哔哩┃哔哩",
       "name": "哔哩🅱️哔哩",
       "type": 3,
-      "jar": "./A/y_0306.png",
+      "jar": "https://gitee.com/yuan301/tv/raw/master/A/y_0306.png",
       "api": "csp_Bili",
       "ext": {
-        "cookie": "./A/z_bi.png",
+        "cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_bi.png",
         "json": "./lib/BLSP.json"
       },
       "style": {
@@ -574,7 +574,7 @@
       }
     }
   ],
-  "logo": "./A/logo.gif",
+  "logo": "https://gitee.com/yuan301/tv/raw/master/A/logo.gif",
   "lives": [
     {
       "name": "刚哥无敌",
