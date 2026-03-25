@@ -23,8 +23,8 @@ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/ok.json
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/qiao.json
  
 
-公益接口
- https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/xin.json
+勇往影视接口
+https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/yw.json
  
 
 
