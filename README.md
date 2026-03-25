@@ -33,6 +33,9 @@ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/fan.json
 猫影视接口
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/mao.json
 
+菜妮丝接口
+https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/cai.json
+
 
  
  
