@@ -42,6 +42,9 @@ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/4k.json
 天浪直播
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live.txt
 
+今日直播
+https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live2.txt
+
 99影院
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/99.json
 
