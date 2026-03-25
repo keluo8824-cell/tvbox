@@ -1,1 +1,13 @@
-# tvbox影视仓最新接口 分享-
+# tvbox影视仓最新接口 分享-本接口不再支持TVBox，请各位安装OK影视，功能更多，设计更合理，并且有手机端！
+OK影视下载地址 密码:5d5i
+注：有些电视可能安装不成功，可以用海信版试试，可能有惊喜
+
+GitHub加速
+国内访问访问地址一
+https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json
+国内访问访问地址二
+https://raw.githubusercontents.com/2hacc/TVBox/main/oktv.json
+国内访问访问地址三
+https://raw.kkgithub.com/2hacc/TVBox/main/oktv.json
+国内访问访问地收
+  上面这种如何添加到   项目说明里面
