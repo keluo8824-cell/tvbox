@@ -1,10 +1,10 @@
 # TVBOX影视仓最新接口 分享-
 
-注：有些电视可能安装不成功，可以用海信版试试，可能有惊喜
+TVBOX接口，影视接口，直播接口，教育接口
 
 GitHub加速
-国内访问访问地址一
-https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json
+公益接口
+https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/xin.json
 
 国内访问访问地址二
 https://raw.githubusercontents.com/2hacc/TVBox/main/oktv.json
