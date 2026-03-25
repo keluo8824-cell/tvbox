@@ -25,6 +25,11 @@ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/qiao.json
 
 勇往影视接口
 https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/yw.json
+
+
+饭太硬接口
+https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/fan.json
+ 
  
 
 
