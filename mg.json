@@ -19,7 +19,7 @@
 	"sites":[
  {
                       "key": "js豆瓣",
-"name": "豆瓣推荐|",
+"name": "豆瓣推荐|野草口令0363",
 "type": 3,
 "api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
 "searchable": 0,
@@ -27,7 +27,17 @@
 "filterable": 1,
 "ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
 },
-
+		  {
+ "key": "应用商店",
+      "name": "🛒应用市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
+    },
+  
+		
 {"key":"豆瓣","name":"🚀豆瓣预告","type":3,"api":"csp_YGP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
