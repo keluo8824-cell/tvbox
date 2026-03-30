@@ -4,7 +4,7 @@
    "sites": [
      {
       "key": "豆豆",
-      "name": "👇☀公益🔹影视.仅自用测试,禁传播贩卖💑",
+      "name": "👇☀┃野草口令0363💑",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "http://rihou.cc:555/nzk/nzkk.jar",
@@ -51,6 +51,15 @@
         "日韩动漫"
       ]
     },    
+    {
+		 "key": "应用商店",
+      "name": "🛒应用市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
+    },
     {
        "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
        "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js",
