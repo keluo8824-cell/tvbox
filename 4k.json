@@ -1,4 +1,4 @@
-﻿//本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。[所有内容仅供学习使用，请勿用于违法用途]
+//本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。[所有内容仅供学习使用，请勿用于违法用途]
 //官网ix99.vip
 //TG裙
 
@@ -8,9 +8,8 @@
 
 	"sites":[
  {
-
-                      "key": "js豆瓣",
-"name": "豆瓣推荐|腰疼APP获取 访问ix92.com",
+      "key": "js豆瓣",
+"name": "豆瓣推荐┃野草口令0363",
 "type": 3,
 "api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
 "searchable": 0,
@@ -20,61 +19,89 @@
 },
 
    {
-      "key": "腾讯视频",
-      "name": "👑｜腾讯｜4K",
-      "type": 3,
-      "api": "https://gitee.com/zhikews/zhikews/raw/master/lib/drpy2.min.js",
-      "ext": "http://210.16.160.81:1122/lib/腾讯视频.js"
-    },
-    {
 
-      "key": "榴莲",
-      "name": "水果4K",
+ "key": "应用商店",
+      "name": "🛒应用市场",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "https://qjappcms.ll4k.xyz",
-        "dataKey": "1yGA85sJ5STtE7uj",
-        "dataIv": "1yGA85sJ5STtE7uj",
-        "deviceId": "",
-        "version": "50000"
-      }
-    },
-    {
-      "key": "芒果视频",
-      "name": "芒果┃4K",
-      "type": 3,
-      "api": "https://gitee.com/aliluya1203/TVBox/raw/main/JS/drpy2.min.js",
-      "ext": "https://gitee.com/aliluya1203/TVBox/raw/main/JS/芒果视频.js"
-    },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "腾讯┃4K",
-      "type": 3,
-      "api": "https://gitee.com/aliluya1203/TVBox/raw/main/JS/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
+      "api": "csp_Market",
+      "searchable": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/aliluya1203/TVBox/raw/main/JS/腾讯视频.js"
+      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
     },
     {
+     "key": "csp_qq",
+        "name": "腾讯视频┃4K",
+        "type": 3,
+        "api": "csp_qq",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    },  {
+        "key": "csp_iqiyi",
+        "name": "奇艺影视┃4K",
+        "type": 3,
+        "api": "csp_iqiyi",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    }, {
+        "key": "csp_mgtv",
+        "name": "芒果视频┃4K",
+        "type": 3,
+        "api": "csp_mgtv",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    }, {
+        "key": "csp-youku",
+        "name": "优酷视频┃4K",
+        "type": 3,
+        "api": "csp_youku",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    },
+ {
+
+
       "key": "爱奇艺",
       "name": "爱奇┃4K",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"
+      "api": "https://v6.gh-proxy.org//https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷┃4K",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
+      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
     },
     {
+
+        "key": "爱腾讯",
+      "name": "腾讯┃4K",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "芒果┃4K",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"
+    },
+    {
+
+
+
+      
+      
       "key": "热播",
       "name": "热播┃YYDS",
       "type": 3,
@@ -104,7 +131,6 @@
 
 {"key":"豆瓣","name":"🚀豆瓣预告","type":3,"api":"csp_YGP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LiteApple","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"巧技二","name":"💢聚搜┃仅搜索","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"追剧","name":"✈追剧","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l2681i6g94li291li"},
@@ -176,7 +202,7 @@ config", "name": "🐲歌配置｜中心","type": 3,"jar":"https://ncstatic-file
 {"key":"Emby","name":"Emby","type":3,"api":"csp_Emby","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://127.0.0.1:9966/api/proxy/https://lite.cn2gias.uk:443","username":"23","password":"23","ua":"Yamby/1.0.2(Android)","client":"Yamby","deviceName":"","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"},"changeable":1},
 {"key":"肥牛","name":"Emby肥牛","type":3,"api":"csp_Emby","searchable":1,"quickSearch":1,"filterable":1,"ext":{"server":"http://127.0.0.1:9966/api/proxy/https://emby.feiniu.lol:443","username":"23","password":"123","ua":"","client":"Yamby","deviceName":"Yamby","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"},"changeable":1},
 {"key":"TgYunPan|本地","name":"🅿TgYunPan|本地","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
-{"key":"push_agent","name":"🐧裙：926953902","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
+{"key":"push_agent","name":"🐧裙：","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 
 {"key":"游戏直播","name":"🙀游戏直播","type":3,"api":"csp_Living","searchable":1,"changeable":0,"ext":{"siteUrl":"https://api.muxia.fun","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"虎牙","name":"🐯虎牙直播","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
@@ -191,79 +217,48 @@ config", "name": "🐲歌配置｜中心","type": 3,"jar":"https://ncstatic-file
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json","cookie":""}}
 ],
 "parses": [{
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, {
+ 
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
 	}, {
 
-"name": "HD",
+"name": "ix99.vip",
+      "type": 1,
       "url": "http://jx.4kbox.top/jx/?url=",
-      "type": 0,
       "ext": {
         "flag": [
+          "qq",
+          "腾讯",
           "qiyi",
-          "imgo",
           "爱奇艺",
           "奇艺",
-          "qq",
-          "qq 预告及花絮",
-          "腾讯",
           "youku",
           "优酷",
-          "pptv",
-          "PPTV",
+          "sohu",
+          "搜狐",
           "letv",
           "乐视",
-          "leshi",
           "mgtv",
           "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ]
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
+          "tnmb",
+          "seven",
+          "bilibili"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
       }
     },
     {
-
-
-"name": "极速HD1",
-      "url": "https://jiexi.789jiexi.net:4433/?url=",
+   "name": "MeowTV1",
       "type": 0,
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "qq 预告及花絮",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ]
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "MeowTV2",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "name": "极速HD3⃣",
