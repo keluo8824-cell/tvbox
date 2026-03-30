@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣推荐",
+      "name": "豆瓣推荐┃野草口令0363",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
@@ -12,6 +12,16 @@
       "ext": {
         "sp": "Douban"
       }
+    },
+    {
+
+       "key": "应用商店",
+      "name": "🛒应用市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
     },
     {
       "key": "配置中心",
