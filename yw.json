@@ -13,6 +13,15 @@
       "ext": "https://x.6788888.xyz/M1/js/douban.js"
     },点击下方首页/换源可切换更多资源*/
     {
+		 "key": "应用商店",
+      "name": "🛒应用市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
+    },
+    {
       "key": "豆瓣",
       "name": "🌞┃全网┃热剧 ",
       "type":3,"api":"csp_Douban","searchable":0
