@@ -17,11 +17,21 @@
   "sites": [
     {
       "key": "天天",
-      "name": "天天┃高峰期用不了就点我换源或者搜索",
+      "name": "天天┃┃野草口令0363",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
+
+       "key": "应用商店",
+      "name": "🛒应用市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
     },
     {
       "key": "拾光",
