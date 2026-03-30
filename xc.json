@@ -27,6 +27,15 @@
       "filterable": 1
     },
     {
+       "key": "应用商店",
+      "name": "🛒应用市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
+    },
+    {
       "key": "弹幕",
       "name": "🅿弹幕┃刷新自动启动",
       "type": 3,
