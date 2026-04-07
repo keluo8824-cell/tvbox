@@ -1,5 +1,5 @@
 # TVBOX影视仓最新接口 分享-
-# 野草口令：0363
+# 野草口令：F4CA
 # TVBOX 影视仓 影视APP   下载 应用推荐：https://wwbkk.lanzoub.com/b00y9sdlqd  密码 bi37
 TVBOX接口，影视接口，直播接口，教育接口
 加速-请在接口前面输入  https://gh-proxy.com 或https://gh-proxy.org或https://v6.gh-proxy.org/
