@@ -1259,7 +1259,7 @@
     {
       "name": "线路①如失效切换其他线路",
       "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk",
+      "url": "http://210.245.166.84:1299/live/live.txt",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
