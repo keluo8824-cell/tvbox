@@ -17,52 +17,52 @@ https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/xin.json
  
 
 OK接口
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/ok.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/ok.json
  
 
 巧记接口
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/qiao.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/qiao.json
  
 
 勇往影视接口
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/yw.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/yw.json
 
 
 饭太硬接口
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/fan.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/fan.json
 
 猫影视接口
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/mao.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/mao.json
 
 菜妮丝接口
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/cai.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/cai.json
 
 4K接口
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/4k.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/4k.json
 
 天浪直播
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live.txt
 
 今日直播
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live2.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/live2.txt
 
 99影院
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/99.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/99.json
 
 七星影仓
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/7xin.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/7xin.json
 
 讴歌线路
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/oge.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/oge.json
 
 天微影线
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/tw.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/tw.json
 
 摸鱼线路
- https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/moyu.json
+ https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/moyu.json
 
 全能线路
-https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/quan.json
+https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/quan.json
  
 
 
