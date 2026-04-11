@@ -4,7 +4,7 @@
     "lives": [{
         "name": "live",
         "type": 0,
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt",
+        "url": "http://210.245.166.84:1299/live/live.txt",
         "playerType": 1,
         "ua": "okhttp/3.15",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
