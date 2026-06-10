@@ -23,13 +23,16 @@
     },
     {
        "key": "应用商店",
-      "name": "🛒应用市场",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
-    },
+            "name": "应用大全下载",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/tu/tbss.txt"
+        },
+
+  
+
     {
       "key": "配置中心",
       "name": "网盘🌟配置",
